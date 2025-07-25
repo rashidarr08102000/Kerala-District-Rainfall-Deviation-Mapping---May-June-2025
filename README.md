@@ -48,8 +48,12 @@ The project aims to:
 
 ## 📊 Output Maps
 
-- Rainfall Map_25June.jpg
-- Rainfall Map_25May.jpg
+### Rainfall Deviation Map – May 2025
+![Rainfall May](Rainfall%20Map_25May.jpg)
+
+### Rainfall Deviation Map – June 2025
+![Rainfall June](Rainfall%20Map_25June.jpg)
+
 ---
 
 ## 📜 License
