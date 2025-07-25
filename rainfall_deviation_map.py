@@ -26,7 +26,7 @@ fig, ax = plt.subplots(1, 1, figsize=(12, 8))
 
 merged.plot(
     column='May_deviation',
-    cmap='Blues',  # Red = below normal, Blue = above normal
+    cmap='Blues',  
     legend=True,
     edgecolor='black',
     linewidth=0.7,
