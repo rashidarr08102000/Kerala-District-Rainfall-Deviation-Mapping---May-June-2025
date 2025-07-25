@@ -48,9 +48,8 @@ The project aims to:
 
 ## 📊 Output Maps
 
-- May 2025 – Actual, Normal, and Deviation
-- June 2025 – Actual, Normal, and Deviation
-
+- Rainfall Map_25June.jpg
+- Rainfall Map_25May.jpg
 ---
 
 ## 📜 License
